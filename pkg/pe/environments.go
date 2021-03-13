@@ -5,7 +5,7 @@ import (
 )
 
 const (
-	apiEnvironments = "/api/v3/environments"
+	apiEnvironments = "/puppet/v3/environments"
 )
 
 // Environments gets the list of environments from the PE API (GET /api/environments)
